@@ -1,0 +1,1 @@
+class Example19{ public static void main(String[] args){ int a=5; switch(a%3){ case 1: System.out.println(a+"%3은 1입니다"); break; case 2: System.out.println(a+"%3은 2입니다"); break; default: System.out.println(a+"%3은 0입니다"); break; } } }
